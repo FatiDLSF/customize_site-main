@@ -37,7 +37,7 @@
                             Desarrolladores de alto calibre
                         </H2>
                         <h1 class="pb-2 font-light">
-                            Somos una empresa con un enorme recorrido en la elavoracion de paginas web, nosotros nos adaptamos a las necidades que tengas para que tu empreza tenga un prospero despege.
+                            Somos una empresa con un enorme recorrido en la elaboración de páginas web, nosotros nos adaptamos a las necesidades que tengas para que tu empresa tenga un próspero despegue.
                         </h1>
                         <button class="border-x-[20px] border-y-2 p-2 border-morado-1 bg-morado-1 text-amarillo-1 font-semibold">
                             Conoce cómo hacerlo 
@@ -58,10 +58,10 @@
             <div class="w-[90vw] overflow-x-scroll">
                 <div class="flex gap-5">
                     <div class="h-[600px] w-[420px] bg-amarillo-1 shadow-md">
-                        <img class="h-[50%] w-[420px]" src="{{ asset('resources/web/images/mujer-home.png') }}" alt="">
+                        <img class="h-[50%] w-[420px]" src="{{ asset('resources/web/images/devices.png') }}" alt="">
                         <div class="h-[50%] p-6 relative">
-                            <h2 class="font-semibold text-2xl"> Desarrollamos paginas a medida</h2>
-                            <p class="w-[420px] pt-3 text-base text-gray-500">#AliadosPorLaSalud</p>
+                            <h2 class="font-semibold text-2xl"> Desarrollamos páginas a medida</h2>
+                            <p class="w-[420px] pt-3 text-base text-gray-500">#</p>
                             <div class="absolute flex bottom-0 left-0 p-8 gap-2">
                                 <div class="pt-0.5">
                                     <svg class="h-5 w-5 text-morado-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -78,8 +78,8 @@
                     <div class="h-[600px] w-[420px] bg-amarillo-1 shadow-md">
                         <img class="h-[50%] w-full" src="{{ asset('resources/web/images/mujer-home.png') }}" alt="">
                         <div class="h-[50%] p-6 relative">
-                            <h2 class="font-semibold text-2xl"> Trabajamos con diseños inovadores </h2>
-                            <p class="w-[420px] pt-3 text-base text-gray-500">#AliadosPorLaSalud</p>
+                            <h2 class="font-semibold text-2xl"> Trabajamos con diseños innovadores </h2>
+                            <p class="w-[420px] pt-3 text-base text-gray-500">#</p>
                             <div class="absolute flex bottom-0 left-0 p-8 gap-2">
                                 <div class="pt-0.5">
                                     <svg class="h-5 w-5 text-morado-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -96,8 +96,8 @@
                     <div class="h-[600px] w-[420px] bg-amarillo-1 shadow-md">
                         <img class="h-[50%] w-full" src="{{ asset('resources/web/images/mujer-home.png') }}" alt="">
                         <div class="h-[50%] p-6 relative">
-                            <h2 class="font-semibold text-2xl"> Nos unimos para ayudar a salvar vidas</h2>
-                            <p class="w-[420px] pt-3 text-base text-gray-500">#AliadosPorLaSalud</p>
+                            <h2 class="font-semibold text-2xl"> Tu mejor opción!</h2>
+                            <p class="w-[420px] pt-3 text-base text-gray-500">#</p>
                             <div class="absolute flex bottom-0 left-0 p-8 gap-2">
                                 <div class="pt-0.5">
                                     <svg class="h-5 w-5 text-morado-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -130,12 +130,12 @@
                             </svg>
                         </div>
                         <div class="text-amarillo-1">
-                            <H2 class="pb-2 text-2xl">¿Quieres saber de finanzas?</H2>
-                            <h1 class="pb-2">Pregúntale a Educación Financiera BBBA</h1>
+                            <H2 class="pb-2 text-2xl">¿Quieres saber de desarrollo web?</H2>
+                            <h1 class="pb-2">Pregúntale a nuestro Desarrollador BackEnd</h1>
                             <div class="grid md:flex md:gap-3">
                                 <button
                                     class="w-32 border-x-[20px] border-y-2 p-2 border-azul-1 bg-azul-1 text-white font-semibold">
-                                    Más
+                                    Más...
                                 </button>
                                 <a class="pt-2.5" href="#"> Quiero saber más </a>
                             </div>
@@ -162,16 +162,15 @@
                             </div>
                         </div>
                         <div class="text-negro">
-                            <H2 class="pb-2 text-2xl">¿Y tú ya estás al día?</H2>
-                            <h1 class="pb-2">Con la última actualización de tu app BBBA tienes lo que ya conoces y más,
-                                solo te tomará unos minutos actualizarla</h1>
+                            <H2 class="pb-2 text-2xl">¡Páginas Web para incrementar tus ventas!</H2>
+                            <h1 class="pb-2">Nuestra gran experiencia en diseño de paginas web nos respalda para garantizar el éxito de cada estrategia de marketing digital, adecuada para cada proyecto.</h1>
                             <div class="py-2.5">
                                 <a class="flex hover:underline text-morado-1" href="#">
                                     <div class="relative h-5 w-5 mt-0.5 mr-3 bg-morado-1 rounded-full">
                                         <p class="absolute text-azul-1 text-sm -mt-[0.5px] h-5 w-5 text-center">✓</p>
                                     </div>
                                     <p class="text-morado-1 font-semibold">
-                                        Conoce cómo hacerlo
+                                        Más...
                                     </p>
                                 </a>
                             </div>
@@ -187,23 +186,23 @@
             <div class="h-44 grid place-content-center ">
                 <div class="text-center gap-4 grid grid-cols-1 text-amarillo-1">
                     <h1 class="text-[27px] font-light">
-                        Tu banco desde el celular
+                        Clientes Satisfechos
                     </h1>
                     <p class="font-bold">
-                        Conoce nuestras aplicaciones móviles
+                    Conoce la variedad de PAQUETES INTEGRALES de Diseño Web
                     </p>
                 </div>
             </div>
 
-            {{-- este elemeto se puede repetir --}}
+            {{-- este elemento se puede repetir --}}
             <div class="mx-4 h-72 bg-azul-1 text-morado-1 flex">
                 <div class="h-full w-3/5 grid place-content-center">
                     <div class="w-[340px] gap-4 grid grid-cols-1 text-neutral-100">
                         <h1 class="font-bold text-xl">
-                            BBBA México
+                        ¡OBTÉN LOS MEJORES BENEFICIOS DE UNA PÁGINA WEB!
                         </h1>
                         <p class="text-base">
-                            Puedes realizar operaciones bancarias estés donde estés, conectándote con BBVA desde tu celular.
+                            .....
                         </p>
                     </div>
                 </div>
