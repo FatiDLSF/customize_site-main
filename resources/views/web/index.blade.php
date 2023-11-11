@@ -135,7 +135,7 @@
                             <div class="grid md:flex md:gap-3">
                                 <button
                                     class="w-32 border-x-[20px] border-y-2 p-2 border-azul-1 bg-azul-1 text-white font-semibold">
-                                    Más...
+                                    Más
                                 </button>
                                 <a class="pt-2.5" href="#"> Quiero saber más </a>
                             </div>
