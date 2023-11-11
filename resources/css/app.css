@@ -1,0 +1,7 @@
+@import url(rainbow.css);
+@import url(sty.css);
+@import url(scroll.css);
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+

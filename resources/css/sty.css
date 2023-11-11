@@ -1,0 +1,15 @@
+.tri {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-top: 240px solid rgb(137, 196, 225);
+    border-right: 50px solid rgba(255, 255, 255, 0);
+}
+
+.tri-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-top: 240px solid rgb(88, 40, 127);
+    border-right: 50px solid rgba(255, 255, 255, 0);
+}
